@@ -3,7 +3,7 @@ from discord.ext import commands
 import os
 
 # Charger le token depuis les variables d'environnement
-TOKEN = os.getenv("DISCORD_TOKEN")
+TOKEN = os.getenv("https://discord.com/api/webhooks/1342174813929738241/-KRu1ceJFJ0HLU8REAQA8bkvew7d8iQ0vBXUx9ZyOlaRuW0aJV-cLPnj52PmBd-rl2qc")
 
 # Activer les intents
 intents = discord.Intents.default()
